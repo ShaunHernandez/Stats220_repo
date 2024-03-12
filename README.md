@@ -9,6 +9,8 @@ I have taken 2 stats papers:
 1. Stats 108
 2. Stats 201
 
-and I am currently taking my third one: Stats220
+and I am currently taking my third one:
 
-* 
+* Stats 220
+
+
