@@ -19,4 +19,6 @@ This repo is to showcase the projects I am doing in my Stats 220 course, and any
 
 https://www.youtube.com/channel/UC4g22sklf8vSPRL45qR0vvw
 
+# **Thank you!**
+
 
