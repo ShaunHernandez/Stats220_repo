@@ -13,4 +13,8 @@ and I am currently taking my third one:
 
 * Stats 220
 
+and here is a link to my youtube channel :)
+
+https://www.youtube.com/channel/UC4g22sklf8vSPRL45qR0vvw
+
 
