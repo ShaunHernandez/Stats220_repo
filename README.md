@@ -4,6 +4,8 @@
 
 My name is Shaun and I am a third year Commerce/Communication student studying at the University of Auckland
 
+This repo is to showcase the projects I am doing in my Stats 220 course, and anything related to Stats 220
+
 ## I have taken 2 stats papers:
 
 1. Stats 108
