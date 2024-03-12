@@ -13,7 +13,7 @@ My name is Shaun and I am a third year Commerce/Communication student studying a
 
 * Stats 220
 
-and here is a link to my youtube channel :)
+## here is a link to my youtube channel :)
 
 https://www.youtube.com/channel/UC4g22sklf8vSPRL45qR0vvw
 
