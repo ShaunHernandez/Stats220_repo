@@ -1,13 +1,14 @@
 # Stats220_repo
 
-Hello! Welcome to my stats 220 repo
+**Hello!** _Welcome to my stats 220 repo_
 
 My name is Shaun and I am a third year Commerce/Communication student studying at the University of Auckland
 
-- Item 1
-- Item 2
-- Item 3
-  - Sub Item 1
-  - Sub Item 2
+I have taken 2 stats papers:
 
-* WA
+1. Stats 108
+2. Stats 201
+
+and I am currently taking my third one: Stats220
+
+* 
